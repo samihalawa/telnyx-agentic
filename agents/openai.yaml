@@ -1,0 +1,4 @@
+interface:
+  display_name: "Telnyx Agentic"
+  short_description: "Make Telnyx AI voice calls with menu navigation, DTMF, transcript polling, retries, and proof logs"
+  default_prompt: "Use $telnyx-agentic to place or debug Telnyx outbound AI calls. Verify TELNYX_API_KEY exists without printing it, check phone numbers/outbound profiles/assistants, navigate IVR menus with DTMF and skip_turn, recover from polling failures, save transcript proof, and report exact call evidence."
